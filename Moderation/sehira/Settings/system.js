@@ -29,11 +29,6 @@ module.exports = {
         ""
     ],
 
-    Webclient: {
-        clientID: "",
-        secret: "",
-        callbackURL: "",
-    },
     prefix: ".",
     prefixs: ["."],
     MongoURL: "",
