@@ -52,7 +52,6 @@ class Monthly {
                 })    
             }, null, true, 'Europe/Istanbul');
 
-            // CronJob
             Aylık_Sistem.start();
         }
 
